@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+.element{
+    font-family: 'Roboto', sans-serif;
+    width:70px;
+    height:80px;
+    border:1px solid #000000;
+    margin:2px, 2px, 2px, 2px;
+    margin-right:10px;
+    text-align: center;
+    float: left;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 14pt;
+    margin-bottom: 2px;
+    margin-top: 5px;
+}
+
+p{
+    font-size: 7pt;
+}
+
+a {
+    color:#000000;
+}
